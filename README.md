@@ -4,6 +4,8 @@
 - [Zinkevich et al., Regret Minimization in Games with Incomplete Information](http://papers.nips.cc/paper/3306-regret-minimization-in-games-with-incomplete-information.pdf)
 - [Neller et al., An Introduction to Counterfactual Regret Minimization](http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf)
 - [Lanctot et al., Monte Carlo Sampling for Regret Minimization in Extensive Games](http://papers.nips.cc/paper/3713-monte-carlo-sampling-for-regret-minimization-in-extensive-games.pdf)
+- [Lanctot, Monte Carlo sampling and regret minimization for equilibrium 
+computation and decision-making in large extensive form games](https://era.library.ualberta.ca/items/e1a34eb8-e7e9-4397-a534-a1e45a73e6e9/view/f6cb83e9-9ad5-4bc6-a184-845341b050ea/thesis.pdf)
 - [Lisý et al., Online Monte Carlo Counterfactual Regret Minimization for Search in Imperfect Information Games](http://mlanctot.info/files/papers/aamas15-iioos.pdf)
 - [Farina et al., Stochastic Regret Minimization in Extensive-Form Games](https://arxiv.org/pdf/2002.08493.pdf)
 - [Waugh et al., Solving Games with Functional Regret Estimation](https://arxiv.org/pdf/1411.7974.pdf)
